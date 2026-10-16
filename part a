@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Part A - HTML Elements</title>
+</head>
+<body>
+    <hl>Part A: HTML Elements</hl>
+
+    <p>&lt;DOCTYPE html &gt; - Help browser display page correctly </p>
+    <p>&lt;p &gt; - Defines a paragraph in HTML </p>
+    <p>&lt;body &gt; - Body of HTML </p>
+    <p>&lt; html &gt; - Define the whole HTML documents </p>
+    <p>&lt; br &gt; - Line break. An element without closing tag. </p>
+    <p>&lt; h3 &gt; - Define HTML heading </p>
+    <p>&lt; a &gt; - HTML links </p>
+
+</body>
+</html>

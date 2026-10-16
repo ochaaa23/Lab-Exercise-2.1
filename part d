@@ -1,0 +1,22 @@
+<!DOCTYPE html> 
+<html>
+<head>
+    <title> Lab activity part D</title>
+</head>
+<body> 
+    <hl> My personal details</hl>
+    <img src="myphoto.jpg.jpg" 
+    alt=" My personal phot0"
+    width="200px">
+    <p> Name: NURUL KHAIRUNISA BINTI HASBULLAH </p>
+    <P> Matric ID: CA25034</P>
+    <p> Year of Study: Year 2</p>
+    <p> My Hometown Address : Kelantan </p>
+    <h2>Tourist Attraction in Kelantan</h2>
+    <a href="https://www.alltrails.com/malaysia/kelantan/dabong/waterfall">
+       Tourist Attractions in Kelantan
+    </a>
+
+</body>
+</html>
+    

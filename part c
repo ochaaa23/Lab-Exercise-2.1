@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <title> Lab Exercise 2.1 part c</title>
+</head>
+<body> 
+
+    <h1> Chapter 2 Lab Exercise 2.1 HTML Elements with Attributes</h1>
+    
+    <!-- Attribute 1:id -->
+    <h2 id="Part C">My heading</h2>
+
+    <!-- Attribute 2:class -->
+     <p class="intro">This is the first paragraph.</p>
+     <p class="intro">This is my second paragraph.</p>
+
+    <!-- Attribute 3:href -->
+     <a href="https://www.alltrails.com/malaysia/kelantan/dabong/waterfall">
+     Visit goggle 
+     </a>
+
+     <br><br>
+
+     <!-- Attribute 4 & 5:src & alt -->
+      <img src="myphoto.jpg.jpg" 
+       alt=" My personal phot0"
+       width="200px">
+
+       <br><br>
+
+    <!-- Attribute 6: Tittle-->
+     <p tittle=" This is additional information"></p>
+
+     <!-- Attribute 7: Style-->
+      <p style="color :darkmagenta;"></p>
+
+      <!--Attribute 8: Disabled-->
+      <input type="text" disabled>
+
+      <br><br>
+
+      <!--Attribute 9: Value-->
+      <input type="text" value="Hello Student">
+
+      <br><br>
+
+      <!-- Attribute 10: Checked-->
+       <input type="checkbox" checked> I agree
+
+</body>
+</html>
